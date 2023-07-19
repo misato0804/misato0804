@@ -6,7 +6,7 @@ Frontend Developer
 
 I am a frontend developer who loves diving into something new and learning to what I've never know.
 
-* 🌍  I'm based in Vancouver 🇨🇦 | Sendai 🇯🇵
+* 🌍  I'm based in Calgary 🇨🇦 | Sendai 🇯🇵
 * 🖥️  See my portfolio at [Here](http://misatotanno.vercel.app/)
 * ✉️  You can contact me at [breitmeer.0804@gmail.com](mailto:breitmeer.0804@gmail.com)
 
